@@ -1,6 +1,7 @@
 # password generator
 
 # Built With
+- JavaScript, React
 
 # Contributing
 Elizabeth Lee, Priya Chaganti, Jessica Kim
